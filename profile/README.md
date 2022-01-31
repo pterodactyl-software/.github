@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Pterodactyl Software is not affiliated with the Pterodactyl Project!
 <!--
 
 **Here are some ideas to get you started:**
